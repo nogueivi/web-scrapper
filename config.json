@@ -1,0 +1,8 @@
+{
+    "title": "Web scrapper",
+    "description": "Python web scrapper for static or dynamic websites, mostly trading websites for sentiment analysis",
+    "version": "1.0",
+    "websites": [
+        
+    ]
+}
