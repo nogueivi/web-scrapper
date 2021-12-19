@@ -12,4 +12,4 @@ Created for learning purposes.
 Scrapping websites not owned by you might not be legal. Please use for learning purposes only.
 
 ### Contributions
-You are free to make suggestions or contributions throught pull request. I will be glad integrate them.
+You are free to make suggestions or contributions through pull request. I will be glad integrate them.
